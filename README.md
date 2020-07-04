@@ -1,9 +1,11 @@
-`$ ruby hangman.rb`
+```
+$ ruby hangman.rb
+```
 
 # Игра "Виселица"/ The Hangman Game
-Привет! Это знаменитая игра "Виселица"[https://cutt.ly/noWn37W], написанная на языке Ruby. 
+Привет! Это знаменитая игра ["Виселица"](https://cutt.ly/noWn37W), написанная на языке Ruby. 
 
-Hi! This is the famous game "The Hangman"[https://cutt.ly/1oWmrcp], written in Ruby. 
+Hi! This is the famous game ["The Hangman"](https://cutt.ly/1oWmrcp), written in Ruby. 
 
 ## Суть игры/ The point of game 
 Есть загаданное слово, которое игрок должен отгадать. На это даётся 7 попыток.
